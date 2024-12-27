@@ -1,3 +1,7 @@
+Vista previa:
+
+![image](https://github.com/user-attachments/assets/1da31b9b-95e2-4d9f-8cb4-4a69e3280b45)
+
 Uso:
 
 1.- Descargar e instalar nodejs. Si no está instalado, ir a: `https://nodejs.org/es`.
